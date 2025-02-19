@@ -1,2 +1,6 @@
 # PowerBi_Dashboard-Project
-This Power BI dashboard analyzes sales by category, region, ship mode, and payment method, with YoY trends and customer segmentation. Key metrics: 1.6M sales, 175K profit, and 4-day delivery average. It provides actionable insights for data-driven decisions.
+Designed and developed an interactive Power BI dashboard to analyze supermarket sales trends, integrating key metrics such as sales, profit, quantity, and delivery performance.
+Leveraged data visualization techniques (line charts, bar charts, and pie charts) to track monthly sales and profit growth (YoY), sales by category, segment, and region.
+Implemented dynamic filters for region selection, enabling detailed analysis of sales and profit distribution across states.
+Enhanced business insights by visualizing sales by payment mode, shipping method, and product categories, improving decision-making.
+Utilized DAX calculations and Power Query to process and transform raw data, ensuring accuracy and efficiency.
